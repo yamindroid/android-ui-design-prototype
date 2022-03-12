@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android-ui-design-prototype</string>
+    <string name="card_title_header">Furama Riverfront, \nSingapore</string>
+    <string name="card_sub_title">405 Havelock Road, Singapore 169633</string>
+
+    <string name="amenities">Amenities</string>
+    <string name="facilities">Facilities</string>
+    <string name="fnb">F&amp;B</string>
+    <string name="kids_family">Kids/Family</string>
+    <string name="wellness">Wellness</string>
+</resources>
