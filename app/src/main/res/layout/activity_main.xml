@@ -43,7 +43,7 @@
 
         <HorizontalScrollView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="350dp"
             android:scrollbars="none">
 
             <LinearLayout
@@ -109,11 +109,12 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="300dp"
+                            android:layout_height="200dp"
                             android:scaleType="centerCrop"
                             android:src="@drawable/img_two" />
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
+
                 <androidx.cardview.widget.CardView
                     android:layout_width="350dp"
                     android:layout_height="wrap_content"
@@ -171,11 +172,12 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="300dp"
+                            android:layout_height="200dp"
                             android:scaleType="centerCrop"
                             android:src="@drawable/img_two" />
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
+
                 <androidx.cardview.widget.CardView
                     android:layout_width="350dp"
                     android:layout_height="wrap_content"
@@ -233,11 +235,12 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="300dp"
+                            android:layout_height="200dp"
                             android:scaleType="centerCrop"
                             android:src="@drawable/img_two" />
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
+
                 <androidx.cardview.widget.CardView
                     android:layout_width="350dp"
                     android:layout_height="wrap_content"
@@ -295,11 +298,12 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="300dp"
+                            android:layout_height="200dp"
                             android:scaleType="centerCrop"
                             android:src="@drawable/img_two" />
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
+
                 <androidx.cardview.widget.CardView
                     android:layout_width="350dp"
                     android:layout_height="wrap_content"
@@ -528,7 +532,7 @@
 
                     <ImageView
                         android:layout_width="match_parent"
-                        android:layout_height="300dp"
+                        android:layout_height="200dp"
                         android:scaleType="centerCrop"
                         android:src="@drawable/img_one" />
 
@@ -626,7 +630,7 @@
 
                     <ImageView
                         android:layout_width="match_parent"
-                        android:layout_height="300dp"
+                        android:layout_height="200dp"
                         android:scaleType="centerCrop"
                         android:src="@drawable/img_one" />
 
